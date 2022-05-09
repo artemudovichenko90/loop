@@ -5,3 +5,4 @@ const WELCOME = "I came up with a random number, try to guess!";
 const USER_INPUT = "Enter your number!";
 const VICTORY = "Congratulations, you guessed the number!"
 const COUNT_ATTEPMT = "The number of your attempts is: ";
+const INCORRECT_INPUT = "You didn't enter a number";
